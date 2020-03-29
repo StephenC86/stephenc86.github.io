@@ -19,6 +19,7 @@ This course is taught by Kevin Moore and can be found [here](https://zerotocode.
 * [the-dojo - HTML forms,CSS images and positioning](https://stephenc86.github.io/the-dojo)
 * [ocala-newsletter - Responsive webpage](https://stephenc86.github.io/ocala-newsletter)
 * [room-renter - Bootstrap CSS](https://stephenc86.github.io/room-renter)
+* [toy-problems - Javascript Experiments](https://stephenc86.github.io/toy-problems)
 
 #### Colt's Code Camp
 
